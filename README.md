@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/snakypy/snakypy-prompt">
-    <img alt="snakypy" src="https://raw.githubusercontent.com/snakypy/snakypy-static/master/logotypes/snakypy/snakypy_logo.svg.png" width="350">
+    <img alt="snakypy" src="https://raw.githubusercontent.com/snakypy/snakypy-static/master/logotypes/snakypy/png/snakypy.png" width="350">
   </a>
   <br> Snakypy - Files statics<br>
 </h1>

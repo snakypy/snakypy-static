@@ -18,7 +18,7 @@
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="snakypy_prompt_logo.svg"
-   inkscape:export-filename="/home/william/github/snakypy/snakypy-static/logotypes/snakypy-prompt/snakypy_prompt_logo.svg.png"
+   inkscape:export-filename="/home/wc4nin/github/snakypy/snakypy-static/snakypy-prompt/logo/png/snakypy_prompt.png"
    inkscape:export-xdpi="68.986397"
    inkscape:export-ydpi="68.986397">
   <defs
@@ -47,16 +47,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="202.80401"
-     inkscape:cy="707.45595"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="519.24057"
+     inkscape:cy="803.96079"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer11"
      showgrid="false"
-     inkscape:window-width="1326"
-     inkscape:window-height="704"
-     inkscape:window-x="40"
-     inkscape:window-y="27"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -126,7 +126,7 @@
        inkscape:export-ydpi="507" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.36672783px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3c3e46;fill-opacity:1;stroke:#3c3e46;stroke-width:0.48819783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:21.36672783px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;fill:#3c3e46;fill-opacity:1;stroke:#3c3e46;stroke-width:0.48819783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DejaVuSansMono Nerd Font';font-stretch:normal;font-variant:normal;"
        x="374.17166"
        y="-91.386909"
        id="text924"
@@ -137,10 +137,10 @@
          id="tspan922"
          x="374.17166"
          y="-91.386909"
-         style="font-size:14.24448586px;fill:#3c3e46;fill-opacity:1;stroke:#3c3e46;stroke-width:0.48819783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">x</tspan></text>
+         style="font-size:14.24448586px;fill:#3c3e46;fill-opacity:1;stroke:#3c3e46;stroke-width:0.48819783;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DejaVuSansMono Nerd Font';font-family:'DejaVuSansMono Nerd Font';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">x</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.0092907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3c3e46;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:18.0092907px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;fill:#3c3e46;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DejaVuSansMono Nerd Font';font-stretch:normal;font-variant:normal;"
        x="437.02081"
        y="-77.976265"
        id="text928"
@@ -151,7 +151,7 @@
          id="tspan926"
          x="437.02081"
          y="-77.976265"
-         style="fill:#3c3e46;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">_</tspan></text>
+         style="fill:#3c3e46;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DejaVuSansMono Nerd Font';font-family:'DejaVuSansMono Nerd Font';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">_</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -178,7 +178,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.12132359px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#306998;fill-opacity:1;stroke:#306998;stroke-width:0.3046208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.12132359px;line-height:1.25;font-family:'Monkey Snake';-inkscape-font-specification:'Monkey Snake';letter-spacing:0px;word-spacing:0px;fill:#306998;fill-opacity:1;stroke:#306998;stroke-width:0.3046208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="text6782-9"
        x="96.163574"
        y="20.579754"
@@ -197,44 +197,52 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.59211731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4fc766;fill-opacity:1;stroke:none;stroke-width:0.31480294"
-       x="89.127029"
-       y="-51.07856"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.59211731px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;fill:#4fc766;fill-opacity:1;stroke:none;stroke-width:0.31480294"
+       x="91.641151"
+       y="-52.283546"
        id="text936"
        transform="scale(0.97797387,1.0225222)"
        inkscape:export-xdpi="507"
        inkscape:export-ydpi="507"><tspan
          sodipodi:role="line"
          id="tspan934"
-         x="89.127029"
-         y="-51.07856"
-         style="fill:#4fc766;fill-opacity:1;stroke-width:0.31480294">➤</tspan></text>
+         x="91.641151"
+         y="-52.283546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';fill:#4fc766;fill-opacity:1;stroke-width:0.31480294"></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:34.44506836px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8611266"
-       x="96.190285"
-       y="-65.833801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.44506836px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8611266"
+       x="89.840286"
+       y="-65.304634"
        id="text940"
        inkscape:export-xdpi="507"
        inkscape:export-ydpi="507"><tspan
          sodipodi:role="line"
          id="tspan938"
-         x="96.190285"
-         y="-65.833801"
-         style="font-size:11.48168945px;stroke-width:0.8611266"><tspan
-   style="fill:#63a8d8;fill-opacity:1;stroke-width:0.8611266"
-   id="tspan942">user</tspan> <tspan
-   style="fill:#4fc766;fill-opacity:1;stroke-width:0.8611266"
-   id="tspan970">at</tspan> <tspan
-   style="fill:#eb5aad;fill-opacity:1;stroke-width:0.8611266"
-   id="tspan982">machine1</tspan> <tspan
-   style="fill:#4fc766;fill-opacity:1;stroke-width:0.8611266"
-   id="tspan1030">in</tspan> <tspan
-   style="fill:#ffffff;fill-opacity:1;stroke-width:0.8611266"
-   id="tspan1032">~ ➜</tspan></tspan></text>
+         x="89.840286"
+         y="-65.304634"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';fill:#63a8d8;fill-opacity:1;stroke-width:0.8611266"><tspan
+   style="fill:#34e2e2;fill-opacity:1"
+   id="tspan868">ﱮ project</tspan> <tspan
+   style="fill:#99df54;fill-opacity:1"
+   id="tspan898">on</tspan> <tspan
+   style="fill:#c894c2;fill-opacity:1"
+   id="tspan933"> 0.1.0</tspan> <tspan
+   style="fill:#99df54;fill-opacity:1"
+   id="tspan945">via</tspan> <tspan
+   style="fill:#ffed60;fill-opacity:1"
+   id="tspan947"> 3.8.1</tspan> <tspan
+   style="fill:#99df54;fill-opacity:1"
+   id="tspan955">on</tspan> <tspan
+   style="fill:#ffffff;fill-opacity:1"
+   id="tspan957"></tspan> <tspan
+   style="fill:#34e2e2;fill-opacity:1"
+   id="tspan963">master</tspan> <tspan
+   style="fill:#ffed60;fill-opacity:1"
+   id="tspan965"></tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.83934021px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72098351"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.83934021px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72098351"
        x="110.62599"
        y="129.46677"
        id="text1036"
@@ -245,34 +253,34 @@
          id="tspan1034"
          x="110.62599"
          y="129.46677"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.22622871px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.72098351;stroke-opacity:1">prompt</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.22622871px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.72098351;stroke-opacity:1">prompt</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:34.44506836px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8611266"
-       x="101.39245"
-       y="-54.662071"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.44506836px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8611266"
+       x="98.773209"
+       y="-56.532959"
        id="text1040"
        inkscape:export-xdpi="507"
        inkscape:export-ydpi="507"><tspan
          sodipodi:role="line"
          id="tspan1038"
-         x="101.39245"
-         y="-54.662071"
-         style="font-size:11.48168945px;fill:#ffffff;fill-opacity:1;stroke-width:0.8611266">_</tspan></text>
+         x="98.773209"
+         y="-56.532959"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.48168945px;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:0.8611266">_</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.99972248px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24999309"
-       x="183.23975"
-       y="111.74419"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99972248px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24999309"
+       x="190.15324"
+       y="111.18221"
        id="text6446-3"
        transform="scale(1.0012707,0.99873092)"
        inkscape:export-xdpi="507.71533"
        inkscape:export-ydpi="507.71533"><tspan
          sodipodi:role="line"
          id="tspan6444-8"
-         x="183.23975"
-         y="111.74419"
-         style="font-size:4.33321333px;fill:#ffffff;fill-opacity:1;stroke:#f7f9fa;stroke-width:0.24999309;stroke-opacity:1">Ⓡ</tspan></text>
+         x="190.15324"
+         y="111.18221"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.33321333px;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke:#f7f9fa;stroke-width:0.24999309;stroke-opacity:1">Ⓡ</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -395,9 +403,9 @@
          id="text6446-5"
          y="-109.39845"
          x="390.83231"
-         style="font-style:normal;font-weight:normal;font-size:12.94669533px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32366738"
+         style="font-style:normal;font-weight:normal;font-size:12.94669533px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32366738;-inkscape-font-specification:'DejaVuSansMono Nerd Font';font-stretch:normal;font-variant:normal;"
          xml:space="preserve"><tspan
-           style="font-size:5.61023521px;fill:#ffffff;fill-opacity:1;stroke:#306998;stroke-width:0.32366738;stroke-opacity:1"
+           style="font-size:5.61023521px;fill:#ffffff;fill-opacity:1;stroke:#306998;stroke-width:0.32366738;stroke-opacity:1;-inkscape-font-specification:'DejaVuSansMono Nerd Font';font-family:'DejaVuSansMono Nerd Font';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
            y="-109.39845"
            x="390.83231"
            id="tspan6444-3"

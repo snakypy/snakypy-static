@@ -1,0 +1,8 @@
+### Folders
+temp
+.git
+
+### Files
+/**/*.~
+/**/*.bak
+temp/

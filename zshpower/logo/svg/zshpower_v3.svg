@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="zshpower_v2.svg"
+   sodipodi:docname="zshpower_v3.svg"
    inkscape:export-filename="/home/wc4nin/github/snakypy/snakypy-static/zshpower/logo/png/zshpower.png"
    inkscape:export-xdpi="42.166912"
    inkscape:export-ydpi="42.166912">
@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="483.56927"
-     inkscape:cy="370.12453"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="136.94844"
+     inkscape:cy="7.8387151"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,34 +88,74 @@
        width="176.3889"
        sodipodi:insensitive="true"
        style="display:none" />
-    <path
-       style="fill:#1f1616;fill-opacity:1;stroke:#000000;stroke-width:0.40350249px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 175.30293,155.46899 -34.66838,65.87 59.36574,-0.94318 2.71771,-14.41232 c -13.04589,-4.40149 -26.3249,11.28437 -42.09798,6.0043 l 28.61118,-66.03261 c -12.21631,0.18651 -25.81331,-0.0645 -42.65871,0.30833 l -5.0015,9.04037 c 3.56585,4.55509 17.62059,8.42353 33.73194,0.16511 z"
-       id="path929"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:#1f1616;fill-opacity:1;stroke:#000000;stroke-width:0.40350249px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 198.82603,145.96873 9.13887,-0.10263 -25.74017,58.04435 c -1.37312,1.66672 -7.58234,5.45584 -12.16667,4.00148 z"
-       id="path931"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="display:inline;fill:#1f1616;fill-opacity:1;stroke:#000000;stroke-width:0.40350249px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 149.61663,140.14652 c 22.96026,-0.28408 45.18934,-1.40565 68.089,0.28529 27.16443,2.00587 22.60324,28.85246 -11.23547,30.53424 -1.28097,3.10154 -2.56193,6.20309 -3.8429,9.30461 40.83707,3.4448 60.35942,-47.70052 22.63043,-48.61186 -37.72901,-0.91135 -70.91576,0.0296 -70.91576,0.0296 -1.5751,2.81936 -3.1502,5.63871 -4.7253,8.45807 z"
-       id="path933"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscczcc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.14010048px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40350249"
-       x="86.00206"
-       y="254.41516"
-       id="text937"><tspan
-         sodipodi:role="line"
-         id="tspan935"
-         x="86.00206"
-         y="254.41516"
-         style="font-size:34.43221283px;stroke-width:0.40350249">ZSHPower</tspan></text>
+    <g
+       id="g855">
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path912"
+         d="m 137.05382,125.66579 -21.8582,16.63546 54.21934,-0.92421 -10.16612,9.24195 -95.7894,79.78447 63.13459,-0.30386 56.99188,-0.30807 -0.0903,-21.21155 c -3.73276,3.76367 -6.99782,7.91708 -14.08069,8.88898 v 0 c -21.45195,2.2486 -35.74212,-9.5428 -56.22177,-14.17097 l 70.3927,-38.50805 -0.0903,-39.41354 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43129003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path914"
+         d="m 190.97956,125.35767 0.10883,104.17869 45.53888,-0.0165 -32.40034,-36.08025 v 3.2e-4 -8.4e-4 l 0.65328,-41.88945 34.87942,20.76889 -35.52989,21.11994 78.67271,-19.40762 c -25.67149,-25.45362 -54.79368,-44.4986 -91.92289,-48.67318 z m 13.24955,68.08072 -0.003,6.3e-4 v 6.4e-4 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43129003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(1.1055164,0.90455464)"
+         id="text937-6"
+         y="289.22229"
+         x="55.98069"
+         style="font-style:normal;font-weight:normal;font-size:19.05563354px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.65202713px;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="289.22229"
+           x="55.98069"
+           id="tspan935-7"
+           sodipodi:role="line"><tspan
+   id="tspan2479"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';fill:#050000;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Z</tspan><tspan
+   id="tspan2489"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';fill:#0bd7fa;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">S</tspan><tspan
+   id="tspan2513"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';fill:#fedd0a;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">H</tspan>P<tspan
+   id="tspan2539"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';fill:#c622aa;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">o</tspan><tspan
+   id="tspan2565"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';fill:#17be1f;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">w</tspan><tspan
+   id="tspan2547"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';fill:#1030c0;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">e</tspan><tspan
+   id="tspan2567"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi';fill:#9f2d2d;fill-opacity:1;stroke:#000000;stroke-width:0.51280606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">r</tspan></tspan></text>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2569"
+         d="m 252.06096,229.49812 39.69003,-0.29485 -0.0442,-6.67585 h -39.64586 z"
+         style="fill:#06c518;fill-opacity:1;stroke:none;stroke-width:1.63007271;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.00864,0.99143402)"
+         id="text918"
+         y="268.2146"
+         x="214.2576"
+         style="font-style:normal;font-weight:normal;font-size:3.47249651px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08681241"
+         xml:space="preserve"><tspan
+           style="fill:#000000;fill-opacity:1;stroke-width:0.08681241"
+           y="268.2146"
+           x="214.2576"
+           id="tspan916"
+           sodipodi:role="line">Copyright (c) 2020 - All right reserved.</tspan></text>
+      <text
+         id="text837"
+         y="171.98434"
+         x="279.70239"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:6.3499999px;stroke-width:0.26458332"
+           y="171.98434"
+           x="279.70239"
+           id="tspan835"
+           sodipodi:role="line">©</tspan></text>
+    </g>
   </g>
 </svg>

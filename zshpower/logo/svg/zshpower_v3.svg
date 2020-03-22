@@ -19,8 +19,8 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="zshpower_v3.svg"
    inkscape:export-filename="/home/wc4nin/github/snakypy/snakypy-static/zshpower/logo/png/zshpower.png"
-   inkscape:export-xdpi="42.166912"
-   inkscape:export-ydpi="42.166912">
+   inkscape:export-xdpi="56.222549"
+   inkscape:export-ydpi="56.222549">
   <defs
      id="defs2">
     <linearGradient
@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="136.94844"
-     inkscape:cy="7.8387151"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="614.48256"
+     inkscape:cy="300.12081"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,7 +89,8 @@
        sodipodi:insensitive="true"
        style="display:none" />
     <g
-       id="g855">
+       id="g855"
+       transform="translate(0.75595236,-2.2678571)">
       <path
          sodipodi:nodetypes="cccccccccccccc"
          inkscape:connector-curvature="0"

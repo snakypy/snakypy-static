@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="964.15985"
-     inkscape:cy="1175.2642"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="2089.7667"
+     inkscape:cy="335.07779"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -172,5 +172,16 @@
          x="693.1579"
          y="-17.8734"
          style="font-size:19.75555611px;stroke-width:0.26458332">©</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="393.74008"
+       y="220.42157"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="393.74008"
+         y="220.42157"
+         style="font-size:16.93333244px;stroke-width:0.26458332">The dotfiles management automatic tool.</tspan></text>
   </g>
 </svg>

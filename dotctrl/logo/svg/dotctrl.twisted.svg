@@ -18,8 +18,8 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="dotctrl.twisted.svg"
    inkscape:export-filename="/home/wc4nin/github/snakypy/snakypy-static/dotctrl/logo/png/dotctrl.png"
-   inkscape:export-xdpi="31.481749"
-   inkscape:export-ydpi="31.481749">
+   inkscape:export-xdpi="19.579607"
+   inkscape:export-ydpi="19.579607">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1316.2381"
-     inkscape:cy="804.29725"
+     inkscape:zoom="0.175"
+     inkscape:cx="1044.9099"
+     inkscape:cy="530.94054"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -166,5 +166,16 @@
          x="700.5022"
          y="-16.486147"
          style="font-size:19.75555611px;stroke-width:0.26458332">©</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="388.55957"
+       y="228.9642"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="388.55957"
+         y="228.9642"
+         style="font-size:16.93333244px;stroke-width:0.26458332">The dotfiles management automatic tool.</tspan></text>
   </g>
 </svg>

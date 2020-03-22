@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1702.4426"
-     inkscape:cy="966.73317"
+     inkscape:cx="1531.7299"
+     inkscape:cy="828.75275"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,5 +166,16 @@
          x="700.5022"
          y="-16.486147"
          style="font-size:19.75555611px;stroke-width:0.26458332">©</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="385.72379"
+       y="233.54407"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="385.72379"
+         y="233.54407"
+         style="font-size:16.93333244px;stroke-width:0.26458332">The dotfiles management automatic tool.</tspan></text>
   </g>
 </svg>

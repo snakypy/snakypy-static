@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="776.23211"
-     inkscape:cy="1090.9205"
+     inkscape:zoom="0.087500002"
+     inkscape:cx="869.68539"
+     inkscape:cy="934.34517"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,7 +135,8 @@
        sodipodi:insensitive="true"
        inkscape:label="dot2" />
     <g
-       id="g960">
+       id="g874"
+       transform="translate(310.1522,-454.80865)">
       <path
          sodipodi:nodetypes="csssscc"
          inkscape:connector-curvature="0"
@@ -187,6 +188,10 @@
          cx="145.70261"
          id="path911-6-9"
          style="display:inline;opacity:1;fill:#0a5cca;fill-opacity:1;stroke:#ffffff;stroke-width:6.14854288;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    </g>
+    <g
+       id="g890"
+       transform="matrix(1.3627996,0,0,1.3627996,-286.03258,-30.257917)">
       <ellipse
          ry="46.864094"
          rx="43.925121"

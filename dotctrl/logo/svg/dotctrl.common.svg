@@ -191,7 +191,10 @@
     </g>
     <g
        id="g890"
-       transform="matrix(1.3627996,0,0,1.3627996,-286.03258,-30.257917)">
+       transform="matrix(1.3627996,0,0,1.3627996,-286.03258,-30.257917)"
+       inkscape:export-filename="/home/wc4nin/github/snakypy/snakypy-static/dotctrl/logo/png/dotctrl.png"
+       inkscape:export-xdpi="15"
+       inkscape:export-ydpi="15">
       <ellipse
          ry="46.864094"
          rx="43.925121"

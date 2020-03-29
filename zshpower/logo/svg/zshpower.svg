@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="zshpower_new.svg"
+   sodipodi:docname="zshpower.svg"
    inkscape:export-filename="/home/wc4nin/bitmap.png"
    inkscape:export-xdpi="45.749474"
    inkscape:export-ydpi="45.749474">
@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26683748"
-     inkscape:cx="416.53581"
-     inkscape:cy="484.80721"
+     inkscape:zoom="0.37736518"
+     inkscape:cx="812.74355"
+     inkscape:cy="254.38186"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,96 +159,110 @@
       </g>
     </g>
     <g
-       id="g2852"
-       inkscape:export-xdpi="49.346699"
-       inkscape:export-ydpi="49.346699"
-       transform="matrix(1.467498,0,0,1.467498,-86.50069,-89.260883)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path2538-8-8"
-         d="m 205.75581,159.71368 v 62.65105 l -17.63783,-11.3911 v -40.05258 z"
-         style="opacity:0.84581496;fill:#eade18;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path2540-0-50"
-         d="m 188.11798,210.97363 52.36232,-35.09193 -0.17562,-21.14999 -52.1867,35.27403 z"
-         style="opacity:0.60792954;fill:#18beea;fill-opacity:1;stroke:none;stroke-width:0.18216728;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path2542-2-6"
-         d="m 240.4803,175.8817 -56.42729,-37.76748 31.25663,-0.0804 24.99504,16.69787 z"
-         style="opacity:0.64757708;fill:#ea18ce;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="g877"
+       inkscape:export-filename="/home/wc4nin/github/snakypy/snakypy-static/zshpower/logo/png/zshpower.png"
+       inkscape:export-xdpi="35.991829"
+       inkscape:export-ydpi="35.991829">
+      <rect
+         inkscape:label="background"
+         y="98.489174"
+         x="5.960701"
+         height="193.8894"
+         width="351.15991"
+         id="rect853"
+         style="opacity:0.94899998;fill:#ffffff;fill-opacity:1;stroke:#f4e5e5;stroke-width:5.22655344;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
       <g
-         style="fill:#3f3f35;fill-opacity:1"
-         transform="translate(73.359266,-43.738375)"
-         id="g2607-8">
+         transform="matrix(1.467498,0,0,1.467498,-86.50069,-89.260883)"
+         inkscape:export-ydpi="49.346699"
+         inkscape:export-xdpi="49.346699"
+         id="g2852">
         <path
-           style="opacity:0.84581496;fill:#3f3f35;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 113.13959,197.44339 -62.650517,-0.25953 11.464065,-17.59049 40.052232,0.16591 z"
-           id="path2538-8-0-6"
+           style="opacity:0.84581496;fill:#eade18;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 205.75581,159.71368 v 62.65105 l -17.63783,-11.3911 v -40.05258 z"
+           id="path2538-8-8"
            inkscape:connector-curvature="0" />
         <path
-           style="opacity:0.60792954;fill:#3f3f35;fill-opacity:1;stroke:none;stroke-width:0.18216728;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 84.699966,254.50637 113.13959,197.44339 102.00537,179.75928 74.272255,236.31531 Z"
-           id="path2540-0-5-2"
+           style="opacity:0.60792954;fill:#18beea;fill-opacity:1;stroke:none;stroke-width:0.18216728;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 188.11798,210.97363 52.36232,-35.09193 -0.17562,-21.14999 -52.1867,35.27403 z"
+           id="path2540-0-50"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
         <path
-           style="opacity:0.64757708;fill:#3f3f35;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 74.272255,236.31531 66.550945,1.14485 -26.06448,17.25185 -30.058754,-0.20564 z"
-           id="path2542-2-1-8"
+           style="opacity:0.64757708;fill:#ea18ce;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 240.4803,175.8817 -56.42729,-37.76748 31.25663,-0.0804 24.99504,16.69787 z"
+           id="path2542-2-6"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
-      </g>
-      <text
-         id="text928-4"
-         y="248.90981"
-         x="94.207085"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.39322138px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.64499996;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.44500232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.4874649px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.44500232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="248.90981"
+        <g
+           id="g2607-8"
+           transform="translate(73.359266,-43.738375)"
+           style="fill:#3f3f35;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             id="path2538-8-0-6"
+             d="m 113.13959,197.44339 -62.650517,-0.25953 11.464065,-17.59049 40.052232,0.16591 z"
+             style="opacity:0.84581496;fill:#3f3f35;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path2540-0-5-2"
+             d="M 84.699966,254.50637 113.13959,197.44339 102.00537,179.75928 74.272255,236.31531 Z"
+             style="opacity:0.60792954;fill:#3f3f35;fill-opacity:1;stroke:none;stroke-width:0.18216728;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path2542-2-1-8"
+             d="m 74.272255,236.31531 66.550945,1.14485 -26.06448,17.25185 -30.058754,-0.20564 z"
+             style="opacity:0.64757708;fill:#3f3f35;fill-opacity:1;stroke:none;stroke-width:0.18188085px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.39322138px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.64499996;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.44500232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="94.207085"
-           id="tspan926-7"
-           sodipodi:role="line"><tspan
-             id="tspan930-2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.44500232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> ZSH</tspan><tspan
-             id="tspan2693"
-             style="fill:none;stroke:#4c6151;stroke-width:2.44500232;stroke-opacity:1"><tspan
-               id="tspan2708"
-               style="stroke:#19b021;stroke-width:2.44500232;stroke-opacity:1">P</tspan><tspan
-               id="tspan2706"
-               style="stroke:#c90706;stroke-width:2.44500232;stroke-opacity:1">o</tspan><tspan
-               id="tspan2704"
-               style="stroke:#eade18;stroke-width:2.44500232;stroke-opacity:1">w</tspan><tspan
-               id="tspan2702"
-               style="stroke:#18beea;stroke-width:2.44500232;stroke-opacity:1">e</tspan></tspan><tspan
-             style="opacity:0.64524422;fill:none;fill-opacity:1;stroke:#ea18ce;stroke-width:2.44500232;stroke-opacity:1"
-             id="tspan2700">r</tspan></tspan></text>
-      <text
-         id="text2484-4"
-         y="255.32512"
-         x="207.44968"
-         style="font-style:normal;font-weight:normal;font-size:4.42096663px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11052417"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.11052417"
-           y="255.32512"
+           y="248.90981"
+           id="text928-4"><tspan
+             sodipodi:role="line"
+             id="tspan926-7"
+             x="94.207085"
+             y="248.90981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.4874649px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.44500232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.44500232;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="tspan930-2"> ZSH</tspan><tspan
+               style="fill:none;stroke:#4c6151;stroke-width:2.44500232;stroke-opacity:1"
+               id="tspan2693"><tspan
+                 style="stroke:#19b021;stroke-width:2.44500232;stroke-opacity:1"
+                 id="tspan2708">P</tspan><tspan
+                 style="stroke:#c90706;stroke-width:2.44500232;stroke-opacity:1"
+                 id="tspan2706">o</tspan><tspan
+                 style="stroke:#eade18;stroke-width:2.44500232;stroke-opacity:1"
+                 id="tspan2704">w</tspan><tspan
+                 style="stroke:#18beea;stroke-width:2.44500232;stroke-opacity:1"
+                 id="tspan2702">e</tspan></tspan><tspan
+               id="tspan2700"
+               style="opacity:0.64524422;fill:none;fill-opacity:1;stroke:#ea18ce;stroke-width:2.44500232;stroke-opacity:1">r</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.42096663px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11052417"
            x="207.44968"
-           id="tspan2482-0"
-           sodipodi:role="line">The powers for terminal.</tspan></text>
-      <text
-         id="text2768"
-         y="153.45511"
-         x="237.31256"
-         style="font-style:normal;font-weight:normal;font-size:4.83768702px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12094217"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.12094217"
-           y="153.45511"
+           y="255.32512"
+           id="text2484-4"><tspan
+             sodipodi:role="line"
+             id="tspan2482-0"
+             x="207.44968"
+             y="255.32512"
+             style="stroke-width:0.11052417">The powers for terminal.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.83768702px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12094217"
            x="237.31256"
-           id="tspan2766"
-           sodipodi:role="line">©</tspan></text>
+           y="153.45511"
+           id="text2768"><tspan
+             sodipodi:role="line"
+             id="tspan2766"
+             x="237.31256"
+             y="153.45511"
+             style="stroke-width:0.12094217">©</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
